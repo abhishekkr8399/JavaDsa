@@ -1,2 +1,1 @@
-# Java-DSA-
-java for placement prepration
+java dsa
